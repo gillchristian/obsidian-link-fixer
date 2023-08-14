@@ -8,7 +8,7 @@ Inspired and forked from [ozntel/obsidian-link-converter](https://github.com/ozn
 
 Adds a command that updates all the wiki links in the Vault to absolute path format, respecting aliases.
 
-[](/static/command.png)
+![](/static/command.png)
 
 ## Known issues
 
